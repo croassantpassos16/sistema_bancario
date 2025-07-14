@@ -15,6 +15,9 @@ Este projeto é um sistema bancário simples desenvolvido em Python, que simula 
   - Lista de todas as transações realizadas.
   - Exibe o saldo atual da conta.
 - ❌ **Sair**: Encerra a aplicação com uma mensagem de agradecimento.
+- 📖 **Criação de Contas e Usuários**:
+  - Permite a criação de usuários, onde cada usuário têm contas ou não.
+  - Cada conta há o seu extrato e a possibilidade de realização de saques e depósitos
 
 ## 🛠️ Tecnologias Utilizadas
 
